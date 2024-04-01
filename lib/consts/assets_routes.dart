@@ -1,0 +1,1 @@
+const String cookieGifRoute = 'assets/gifs/cookie.gif';
